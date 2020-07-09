@@ -1,4 +1,5 @@
 Python Data Science Libraries Setup
+For beginners (newbies to python programming)
 
 This should guide you to install the various packages that you will need for data science and python programming in general.
 
