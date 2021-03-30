@@ -103,7 +103,7 @@ pycryptodome==3.9.7
 pydot==1.4.1
 pygal==2.4.0
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pymongo==3.10.1
 pyOpenSSL==19.1.0
